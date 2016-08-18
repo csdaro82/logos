@@ -30,7 +30,6 @@ Requires(post): coreutils
 BuildRequires: hardlink
 # For _kde4_* macros:
 BuildRequires: kde-filesystem
-
 %description
 The redhat-logos package (the "Package") contains files created by the
 CentOS Project to replace the Red Hat "Shadow Man" logo and  RPM logo.
